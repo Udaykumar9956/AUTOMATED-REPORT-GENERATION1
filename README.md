@@ -34,3 +34,4 @@ This project highlights the practical application of Python for business reporti
 In conclusion, this automated reporting solution provides a streamlined approach to transforming raw transactional data into actionable intelligence. With easy adaptability to different datasets and customizable formatting, it stands as a scalable model for real-world sales reporting. The entire process—from reading data to generating visual and textual summaries—is completed efficiently using a single script, demonstrating the power of Python in business analytics.
 
 ##OUTPUT
+<img width="863" height="436" alt="Image" src="https://github.com/user-attachments/assets/27e90256-4fa2-4760-adc5-c86669ea1d89" />
